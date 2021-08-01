@@ -1,4 +1,5 @@
 # MachiKania-M028C8347D8_Shield
+![DSC09798](https://user-images.githubusercontent.com/62051355/127771939-816bf50f-534b-4444-9e0b-8739572f2f29.JPG)
 
 M028C8347D8_Shieldは、TFT液晶モジュール[M028C8347D8]または2.4インチ液晶モジュール[M024C9320TP]を、MachiKania type Mに接続するためのシールドです。<BR>
 
